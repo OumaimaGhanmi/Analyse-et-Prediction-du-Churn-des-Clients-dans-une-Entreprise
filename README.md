@@ -17,8 +17,13 @@ Dans ce projet, nous utilisons des techniques d'analyse de données et de machin
 ## Technologies Utilisées
 
 Python : Langage principal pour l'analyse et le machine learning.
+
 Pandas et NumPy : Pour la manipulation des données.
+
 Matplotlib et Seaborn : Pour les visualisations.
+
 Scikit-learn : Pour les modèles de machine learning (régression logistique, arbre de décision).
+
 TPOT : Pour l'optimisation automatique des modèles.
+
 Jupyter/Google Colab : Pour le développement et l'exécution des notebooks.
