@@ -7,11 +7,17 @@ Dans ce projet, nous utilisons des techniques d'analyse de données et de machin
 ## Étapes Clés du Projet
 
 1/Chargement et Exploration des Données : Importation et analyse des données clients pour comprendre leurs caractéristiques.
+
 2/Préparation des Données : Nettoyage des données, gestion des valeurs manquantes, et encodage des variables.
+
 3/Visualisation des Variables : Analyse graphique des distributions des variables comme l'âge, la durée de l'abonnement, etc.
+
 4/Traitement et Visualisation Avancée : Amélioration de la performance des modèles via la gestion des déséquilibres de classe et création de matrices de corrélation.
+
 5/Entraînement des Modèles : Application de modèles de régression logistique et d'arbre de décision pour prédire le churn.
+
 6/Test avec TPOT (AutoML) : Utilisation de TPOT pour optimiser automatiquement les modèles et leurs paramètres.
+
 7/Évaluation du Modèle : Analyse des performances avec des métriques comme la matrice de confusion et l'accuracy.
 
 ## Technologies Utilisées
